@@ -1,0 +1,4 @@
+name: SpawnerSilkTouch
+version: '${project.version}'
+main: spigot.spawnersilktouch.SpawnerSilkTouch
+api-version: 1.19
